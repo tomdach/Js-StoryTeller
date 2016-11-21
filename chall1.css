@@ -1,0 +1,41 @@
+
+*{
+	margin: 0;
+	padding: 0;
+}
+@font-face{
+	font-family: greatbibes;
+	src: url(GreatVibes-Regular.otf);
+	}
+
+body{
+	background-image: url(22.jpg);
+	background-size: 100%;
+}
+#histoire{
+	height: 80px;
+	width: 100%;
+	color: white;
+	font-size: 70px;
+	font-family: greatbibes;
+	text-align: center;
+
+}
+#debut{
+    height: 99%;
+    width: 70%;
+	color: black;
+	font-size: 30px;
+	text-align: center;
+	margin-top: 3%;
+	overflow: hidden;
+	margin: auto;
+	visibility: hidden;
+	
+}
+span{
+	font-family: greatbibes;
+	background-size: 100%;
+	color: red;
+
+}
